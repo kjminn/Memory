@@ -152,12 +152,16 @@
         "source": "/Users/appcreator00/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/appcreator00/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
-        "source": "/Users/appcreator00/Downloads/Memory/Application/src/main/res/layout/drawer_list_item.xml"
+        "merged": "/Users/appcreator00/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/fragment_family.xml",
+        "source": "/Users/appcreator00/Downloads/Memory/Application/src/main/res/layout/fragment_family.xml"
     },
     {
         "merged": "/Users/appcreator00/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Users/appcreator00/Downloads/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/appcreator00/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Users/appcreator00/Downloads/Memory/Application/src/main/res/layout/drawer_list_item.xml"
     },
     {
         "merged": "/Users/appcreator00/Downloads/Memory/Application/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
